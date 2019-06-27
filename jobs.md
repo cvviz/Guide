@@ -159,7 +159,7 @@ There are **three ways in which you can add tags** to resumes.
 
 **3. Add Tags To Single Resume** 
 	1. Click on the resume file name
-	2. It would open a resume with a brief summary **on the left**. There you will see a tab, Tags
+	2. It would open a resume with a brief summary on the left. There you will see a tab, Tags
 	3. Click on a tab, Tags. Here you can add tags.
 
 # Why should we use tags?
