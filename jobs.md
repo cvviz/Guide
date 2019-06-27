@@ -126,3 +126,43 @@ If you want **to email to a single candidate**, then you can achieve that using 
 
 Alternatively, for sending an individual email you can click on email id, that you see on the screen in a candidate row (email column) and it will open an email editor. 
 
+# How to share jobs on social media?/Can I share a job on social media?
+
+You can share jobs on social media like LinkedIn, Facebook, Twitter. You can share a job on social media using the below steps -
+1. Click on a job
+2. Click on **Share Job** on the top-right side of the screen.
+3. To share a job on LinkedIn, choose LinkedIn. To share a job on Facebook, choose Facebook.
+
+# What is Share with Vendor?
+
+Vendors are recruitment agencies that could be working with you to help you source/hire candidates. When you share a job post with vendors they get a job link with complete job details. This link will have an option to upload resumes. When a vendor will upload resumes here, it will come directly into CVViZ. You can see which resume is sent by which vendor.
+
+ # What is Copy Job Link?
+
+When you "Copy Job Link", you are basically copying a job posting which will have an apply button. You can email this link or copy this link on different job boards or anywhere.
+
+# What are Tags?
+
+Using tags you can identify or group multiple resumes. It is similar to using hashtags. Except you **DO NOT USE #** here.  You can assign multiple tags to a resume or resumes.
+
+# How to add Tags to resumes?
+
+There are **three ways in which you can add tags** to resumes.
+
+**1. Add tags while uploading resumes. **  - After you drag and drop resumes, you will be asked to add tags. You can add multiple tags.
+**2. Add Tags After You Upload Resumes OR To Old Resumes ** 
+	- Select one or multiple resumes
+	- Click on ... (3 dots) on the top-right side of the screen.
+	- Choose **Add Tags** option. You can add multiple tags using a comma-separated list of tags.
+**3. Add Tags To Single Resume** - 
+	- Click on the resume file name
+	- It would open a resume with a brief summary **on the left**. There you will see a tab, Tags
+	- **Click on a tab**, Tags. Here you can add tags.
+
+# Why should we use tags?
+
+If you have assigned tags to resumes, you can search for resumes using these tags. One resume can have multiple tags. If you want to rank a particular set of candidates, then you can use tags. Tags help you create virtual groups of resumes. You can **build talent pipelines using tags.** You can identify or filter your data from the search results. It has many advantages.
+
+# What kinds of cities mentioned in the search criteria? 
+
+Cities listed are the cities found on a resume. CVViZ captures all the cities that may appear on a resume. 
