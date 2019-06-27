@@ -133,6 +133,11 @@ You can share jobs on social media like LinkedIn, Facebook, Twitter. You can sha
 2. Click on **Share Job** on the top-right side of the screen.
 3. To share a job on LinkedIn, choose LinkedIn. To share a job on Facebook, choose Facebook.
 
+# Can I hide my customer's name from the job post shared on social media?
+
+Yes. Recruitment agencies may not be allowed to advertise their client's name on social media or anywhere else. **You can hide your customer's name in a job post** that is shared with the outside world by following below steps -
+**Go to Settings -> Application -> Customers -> Edit/Add Customer -> Set Privacy ON**
+
 # What is Share with Vendor?
 
 Vendors are recruitment agencies that could be working with you to help you source/hire candidates. When you share a job post with vendors they get a job link with complete job details. This link will have an option to upload resumes. When a vendor will upload resumes here, it will come directly into CVViZ. You can see which resume is sent by which vendor.
@@ -150,17 +155,17 @@ Using tags you can identify or group multiple resumes. It is similar to using ha
 There are **three ways in which you can add tags** to resumes.
 
 **1. Add tags while uploading resumes.**  
-	 	After you drag and drop resumes, you will be asked to add tags. You can add multiple tags.
+         After you drag and drop resumes, you will be asked to add tags. You can add multiple tags.
 
 **2. Add Tags After You Upload Resumes OR To Old Resumes** 
-	1. Select one or multiple resumes
-	2. Click on ... (3 dots) on the top-right side of the screen.
-	3. Choose Add Tags option. You can add multiple tags using a comma-separated list of tags.
+    1. Select one or multiple resumes
+    2. Click on ... (3 dots) on the top-right side of the screen.
+    3. Choose Add Tags option. You can add multiple tags using a comma-separated list of tags.
 
 **3. Add Tags To Single Resume** 
-	1. Click on the resume file name
-	2. It would open a resume with a brief summary on the left. There you will see a tab, Tags
-	3. Click on a tab, Tags. Here you can add tags.
+    1. Click on the resume file name
+    2. It would open a resume with a brief summary on the left. There you will see a tab, Tags
+    3. Click on a tab, Tags. Here you can add tags.
 
 # Why should we use tags?
 
@@ -168,4 +173,4 @@ If you have assigned tags to resumes, you can search for resumes using these tag
 
 # What kinds of cities mentioned in the search criteria? 
 
-Cities listed are the cities found on a resume. CVViZ captures all the cities that may appear on a resume. 
+Cities listed are the cities found on a resume. CVViZ captures all the cities that may appear on a resume.
