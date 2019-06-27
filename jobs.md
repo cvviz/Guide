@@ -149,17 +149,18 @@ Using tags you can identify or group multiple resumes. It is similar to using ha
 
 There are **three ways in which you can add tags** to resumes.
 
-**1. Add tags while uploading resumes. **   After you drag and drop resumes, you will be asked to add tags. You can add multiple tags.
+**1. Add tags while uploading resumes. **  
+	 After you drag and drop resumes, you will be asked to add tags. You can add multiple tags.
+
 **2. Add Tags After You Upload Resumes OR To Old Resumes ** 
-	**Unordered Lists**
-	- Select one or multiple resumes
-	- Click on ... (3 dots) on the top-right side of the screen.
-	- Choose **Add Tags** option. You can add multiple tags using a comma-separated list of tags.
-**3. Add Tags To Single Resume** - 
-	**Unordered Lists**
-	- Click on the resume file name
-	- It would open a resume with a brief summary **on the left**. There you will see a tab, Tags
-	- **Click on a tab**, Tags. Here you can add tags.
+	1. Select one or multiple resumes
+	2. Click on ... (3 dots) on the top-right side of the screen.
+	3. Choose Add Tags option. You can add multiple tags using a comma-separated list of tags.
+
+**3. Add Tags To Single Resume** 
+	1. Click on the resume file name
+	2. It would open a resume with a brief summary **on the left**. There you will see a tab, Tags
+	3. **Click on a tab**, Tags. Here you can add tags.
 
 # Why should we use tags?
 
