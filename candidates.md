@@ -42,3 +42,10 @@ There are **two ways in which you can delete a candidate**
 1. Take your cursor over a resume file name. Rather **hover the cursor over a resume file name.** It will show you a small pop-up box containing a brief summary of the candidate. At the bottom of that pop-up box, you shall find various action buttons. One of the buttons/icons is an Edit button/icon.
 
 2. Click on a resume file. It will open a resume with multiple actions on the top side of the resume. One of the actions is to Edit candidate information. 
+
+# How to schedule a Video Interview
+
+1. Take your cursor over a resume file name. Rather **hover the cursor over a resume file name.** It will show you a small pop-up box containing a brief summary of the candidate. At the bottom of that pop-up box, you shall find various action buttons. One of the buttons/icons is a Schedule Video Interview. Click On That. 
+
+2. Choose between a. Schedule Quick Interview (When you know exact time for interview i.e. when both interviewer and candidate are available)
+b. Schedule Smart Interview (In this scenario, either a candidate or hiring manager/recruiter can choose multiple preferred time slots and then the other party can confirm one of the slots for an interview)
