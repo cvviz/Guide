@@ -64,7 +64,28 @@ You can select screening questions while creating a new job post. In the screeni
 # Email Setting
 You can use the CVViZ platform to send emails or share resumes internally or with hiring managers. 
 
-You can also use your own email service to do the same activities. We have already done this integration with Gmail (G suit). Outlook coming soon.
+You can also use your own email service to do the same activities. We have already done this integration with Gmail (G suit) and Outlook.
+
+# Email Integrations 
+
+You can integrate your G suit and/or Outlook account with CVViZ. This will help you in many ways; especially with CRM like feature. If you integrate your email address here you will be able to see communication between your integrated email ID and candidate's email ID. 
+
+It will also enable you to send emails to candidates using either CVViZ email service or using your own email account (the one you integrate).
+
+If you need to reply to a candidate or you want to send a fresh email to a candidate then you do not need to switch between CVViZ and email (or email client), you can do it using CVViZ alone.
+
+# Email Integrations > Dedicated Email Address
+
+You can integrate with your dedicated email address here. For example, career@company_name.com. This email address will be scanned for new files received. This will happen every 30 minutes. If you receive new files you will get a pop-up notification.
+ 
+In notification you will have an option to view Files. Click on those files and you will see the list of files along with email subject and date. You can filter on email subject. 
+ 
+If you miss the pop-up notification, you can click on Notification icon and then click on view all notifications. There you will find all the old notifications.
+ 
+Please note, it will only pull emails from the time you add this integration. 
+ 
+You won’t be able to pull historical files. This is more of live connection. If you need to pull historical resumes from dedicated email ID then you should use personal email integration where you can manually select your criteria for email search.
+ 
 
 # Email Templates
 We have provided you with some basic email templates. These templates are for sending Job postings, candidate screening, rejection email, etc. **You can modify these templates or you can create your own!**
